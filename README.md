@@ -25,7 +25,7 @@ In my free time after work, I enjoy playing games like League of Legends and Age
 If you want to collaborate with me on projects or get to know me better, feel free to follow me and let's stay in touch! :)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brenio55)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brenio55&hide=python&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brenio55&hide=python&langs_count=4&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
