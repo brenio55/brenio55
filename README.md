@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+PT-BR:
 Eu sou Brenio 🗿😊. Tenho experiência em desenvolvimento front-end com HTML, CSS, SASS, JQuery e um pouco de ReactJS. Também sou habilidoso em desenvolvimento back-end usando PHP, MySQL e Node.js, mas tenho muito mais conhecimento em PHP e MySQL. 
 
 Atualmente, trabalho como Auxliar Administrativo para uma empresa de carga aérea da minha cidade (L'auto Cargo) e também trabalho como freelancer no meu tempo livre.
@@ -10,7 +11,9 @@ No meu tempo livre pós-trabalho, gosto de jogar jogos como League of Legends e 
 
 Se você deseja colaborar comigo em projetos ou me conhecer melhor, me segue aí e vamos nos falando! :)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=brenio55a&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+EN:
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=brenio55&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
