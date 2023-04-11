@@ -7,9 +7,11 @@ Atualmente, trabalho como Auxliar Administrativo para uma empresa de carga aére
 
 Tenho experiência trabalhando como freelancer Level One no <strong>Fiverr</strong> e realizo uma variedade de trabalhos, incluindo desenvolvimento web, design, produção musical e tradução. 
 
-No meu tempo livre pós-trabalho, gosto de jogar jogos como League of Legends e Age of Empires III, passear com meu cachorro, jogar basquete, programar e tocar guitarra. Embora eu costumasse ler muito, tenho tido pouco tempo ultimamente :/
+Nomeu tempo livre pós-trabalho, gosto de jogar jogos como League of Legends e Age of Empires III, passear com meu cachorro, jogar basquete, programar e tocar guitarra. Embora eu costumasse ler muito, tenho tido pouco tempo ultimamente :/
 
 Se você deseja colaborar comigo em projetos ou me conhecer melhor, me segue aí e vamos nos falando! :)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 EN:
 I am Brenio 🗿😊. I have experience in front-end development with HTML, CSS, SASS, JQuery, and a little bit of ReactJS. I'm also skilled in back-end development using PHP, MySQL, and Node.js, but I know way more about PHP and MySQL.
