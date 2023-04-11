@@ -12,6 +12,15 @@ No meu tempo livre pós-trabalho, gosto de jogar jogos como League of Legends e 
 Se você deseja colaborar comigo em projetos ou me conhecer melhor, me segue aí e vamos nos falando! :)
 
 EN:
+I am Brenio 🗿😊. I have experience in front-end development with HTML, CSS, SASS, JQuery, and a little bit of ReactJS. I'm also skilled in back-end development using PHP, MySQL, and Node.js, but I know way more about PHP and MySQL.
+
+Currently, I work as an Administrative Assistant for an air cargo company in my city (L'auto Cargo), and I also work as a freelancer in my spare time.
+
+I have experience working as a Level One freelancer on Fiverr and take on a variety of jobs, including web development, design, music production, and translation.
+
+In my free time after work, I enjoy playing games like League of Legends and Age of Empires III, walking my dog, playing basketball, programming, and playing guitar. While I used to read a lot, I've been short on time lately :/
+
+If you want to collaborate with me on projects or get to know me better, feel free to follow me and let's stay in touch! :)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brenio55)](https://github.com/anuraghazra/github-readme-stats)
 
