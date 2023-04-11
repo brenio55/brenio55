@@ -13,7 +13,7 @@ Se você deseja colaborar comigo em projetos ou me conhecer melhor, me segue aí
 
 EN:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=brenio55&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brenio55)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
