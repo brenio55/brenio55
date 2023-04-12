@@ -24,12 +24,6 @@ In my free time after work, I enjoy playing games like League of Legends and Age
 
 If you want to collaborate with me on projects or get to know me better, feel free to follow me and let's stay in touch! :)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=brenio55" />
 </a>
