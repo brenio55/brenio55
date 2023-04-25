@@ -7,7 +7,7 @@ Atualmente, trabalho como Auxliar Administrativo para uma empresa de carga aére
 
 Tenho experiência trabalhando como freelancer Level One no <strong>Fiverr</strong> e realizo uma variedade de trabalhos, incluindo desenvolvimento web, design, produção musical e tradução. 
 
-Nomeu tempo livre pós-trabalho, gosto de jogar jogos como League of Legends e Age of Empires III, passear com meu cachorro, jogar basquete, programar e tocar guitarra. Embora eu costumasse ler muito, tenho tido pouco tempo ultimamente :/
+No meu tempo livre pós-trabalho, gosto de jogar jogos como League of Legends e Age of Empires III, passear com meu cachorro, jogar basquete, programar e tocar guitarra. Embora eu costumasse ler muito, tenho tido pouco tempo ultimamente :/
 
 Se você deseja colaborar comigo em projetos ou me conhecer melhor, me segue aí e vamos nos falando! :)
 
