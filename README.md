@@ -3,7 +3,7 @@
 PT-BR:
 Eu sou Brenio 🗿😊. Tenho experiência em desenvolvimento front-end com HTML, CSS, SASS, JQuery e um pouco de ReactJS. Também sou habilidoso em desenvolvimento back-end usando PHP, MySQL e Node.js, mas tenho muito mais conhecimento em PHP e MySQL. 
 
-Atualmente, trabalho como Auxliar Administrativo para uma empresa de carga aérea da minha cidade (L'auto Cargo) e também trabalho como freelancer no meu tempo livre.
+Atualmente, trabalho como Expert em Interação na Teleperformance e como freelancer no meu tempo livre.
 
 Tenho experiência trabalhando como freelancer Level One no <strong>Fiverr</strong> e realizo uma variedade de trabalhos, incluindo desenvolvimento web, design, produção musical e tradução. 
 
@@ -16,7 +16,7 @@ Se você deseja colaborar comigo em projetos ou me conhecer melhor, me segue aí
 EN:
 I am Brenio 🗿😊. I have experience in front-end development with HTML, CSS, SASS, JQuery, and a little bit of ReactJS. I'm also skilled in back-end development using PHP, MySQL, and Node.js, but I know way more about PHP and MySQL.
 
-Currently, I work as an Administrative Assistant for an air cargo company in my city (L'auto Cargo), and I also work as a freelancer in my spare time.
+Currently, I work as Expert in Interations at Teleperformance and as a freelancer in my spare time.
 
 I have experience working as a Level One freelancer on Fiverr and take on a variety of jobs, including web development, design, music production, and translation.
 
