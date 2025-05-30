@@ -18,7 +18,7 @@ Minha fluência em inglês e português, combinada com minha experiência intern
 
 EN
 
-Hi! I'm Brenio, a Technical Project Manager and Software Development Specialist, with a strong focus on front-end development and system integration. My career started as a Senior Full Stack Developer, where I built scalable applications and intuitive user interfaces. This experience led to my promotion to Technical Project Manager, a role in which I lead multidisciplinary teams and coordinate development strategies and digital product delivery.
+Hi! I'm Brenio, a Technical Project Manager and Software Development Specialist, with a strong focus on front-end development and system integration. My career started as Full Stack Developer, where I built scalable applications and intuitive user interfaces. This experience led to my promotion to Senior and then Technical Project Manager, a role in which I lead multidisciplinary teams and coordinate development strategies and digital product delivery.
 
 Currently, I work as a Technical Project Manager at Vyudu, Inc., where I use agile methodologies to align technology, business, and user experience. My expertise includes engineering team leadership, architecture planning, and implementing processes that drive quality and innovation.
 
