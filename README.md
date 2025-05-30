@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/1f690f82-8097-40d7-95e1-c57a7cf8bb79)Hi there 👋
 PT-BR
 
 Olá! Sou Brenio, um profissional especializado em gestão técnica de projetos e desenvolvimento de software, com foco em front-end e integração de sistemas. Minha trajetória começou como Desenvolvedor Full Stack Pleno, onde atuei ativamente na construção de aplicações escaláveis e interfaces intuitivas. Rapidamente subi de cargo para Sênior pela ótima liderança com equipes e organização, o que me levou à promoção para Gerente Técnico de Projetos, posteriormente. Função na qual lidero equipes multidisciplinares e coordeno estratégias de desenvolvimento e entrega de produtos digitais.
