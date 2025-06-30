@@ -2,7 +2,7 @@ PT-BR
 
 Olá! Sou Brenio, um profissional especializado em gestão técnica de projetos e desenvolvimento de software, com foco em front-end e integração de sistemas. Minha trajetória começou como Desenvolvedor Full Stack Pleno, onde atuei ativamente na construção de aplicações escaláveis e interfaces intuitivas. Rapidamente subi de cargo para Sênior pela ótima liderança com equipes e organização, o que me levou à promoção para Gerente Técnico de Projetos, posteriormente. Função na qual lidero equipes multidisciplinares e coordeno estratégias de desenvolvimento e entrega de produtos digitais.
 
-Atualmente, sou Gerente Técnico de Projetos na Vyudu, Inc., onde utilizo metodologias ágeis para alinhar tecnologia, negócios e experiência do usuário. Minha expertise inclui a gestão de squads de engenharia de software, definição de arquiteturas eficientes e implementação de processos que garantem qualidade e inovação.
+Com experiência como Gerente Técnico de Projetos na Vyudu, Inc., onde utilizei metodologias ágeis para alinhar tecnologia, negócios e experiência do usuário., minha expertise inclui a gestão de squads de engenharia de software, definição de arquiteturas eficientes e implementação de processos que garantem qualidade e inovação.
 
 Tenho forte preferência pelo desenvolvimento front-end, aplicando tecnologias como React.js, Next.js, TypeScript, TailwindCSS e SASS para criar experiências modernas e performáticas. No back-end, tenho experiência consolidada com Node.js, PHP, MySQL e Firebase, garantindo integração robusta e escalabilidade nas aplicações que desenvolvo.
 
@@ -20,7 +20,7 @@ EN
 
 Hi! I'm Brenio, a Technical Project Manager and Software Development Specialist, with a strong focus on front-end development and system integration. My career started as Full Stack Developer, where I built scalable applications and intuitive user interfaces. This experience led to my promotion to Senior and then Technical Project Manager, a role in which I lead multidisciplinary teams and coordinate development strategies and digital product delivery.
 
-Currently, I work as a Technical Project Manager at Vyudu, Inc., where I use agile methodologies to align technology, business, and user experience. My expertise includes engineering team leadership, architecture planning, and implementing processes that drive quality and innovation.
+With proved experience as a Technical Project Manager at Vyudu, Inc., where I used agile methodologies to align technology, business, and user experience, my expertise includes engineering team leadership, architecture planning, and implementing processes that drive quality and innovation.
 
 I have a strong preference for front-end development, working with React.js, Next.js, TypeScript, TailwindCSS, and SASS to create modern and high-performance experiences. On the back-end, I have solid experience with Node.js, PHP, MySQL, and Firebase, ensuring robust integration and scalability for the applications I build.
 
