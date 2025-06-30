@@ -6,7 +6,7 @@ Com experiência como Gerente Técnico de Projetos na Vyudu, Inc., onde utilizei
 
 Tenho forte preferência pelo desenvolvimento front-end, aplicando tecnologias como React.js, Next.js, TypeScript, TailwindCSS e SASS para criar experiências modernas e performáticas. No back-end, tenho experiência consolidada com Node.js, PHP, MySQL e Firebase, garantindo integração robusta e escalabilidade nas aplicações que desenvolvo.
 
-Além da Vyudu, atuo como Customer Service Representative na Teleperformance, aprimorando minhas habilidades de comunicação e atendimento global. Também sou fundador da DiVSeC, onde crio soluções tecnológicas voltadas para segurança digital e projetos personalizados.
+Atualmente, trabalho como Customer Service Representative na Teleperformance, fazendo análises em tempo real de serviços bancários internacionais, aprimorando minhas habilidades de comunicação, atendimento direto com o cliente global, e fazendo análises para resoluções de situações em momentos críticos. Também sou fundador da DiVSeC, onde crio soluções tecnológicas voltadas para segurança digital e projetos personalizados.
 
 Minha fluência em inglês e português, combinada com minha experiência internacional, me permite atuar em ambientes multiculturais e colaborar com profissionais de diferentes áreas. Além da tecnologia, sou apaixonado por design, engenharia de áudio e produção musical, trazendo uma abordagem criativa para cada projeto.
 
@@ -24,7 +24,7 @@ With proved experience as a Technical Project Manager at Vyudu, Inc., where I us
 
 I have a strong preference for front-end development, working with React.js, Next.js, TypeScript, TailwindCSS, and SASS to create modern and high-performance experiences. On the back-end, I have solid experience with Node.js, PHP, MySQL, and Firebase, ensuring robust integration and scalability for the applications I build.
 
-Besides Vyudu, I also work as a Customer Service Representative at Teleperformance, enhancing my global communication and customer service skills. I'm also the founder of DiVSeC, a company dedicated to digital security solutions and custom software development.
+Currently, I work as a Customer Service Representative at Teleperformance, performing real-time analysis of international banking services, enhancing my communication skills, engaging directly with global customers, and analyzing situations to provide solutions during critical moments. I'm also the founder of DiVSeC, where I develop technological solutions focused on digital security and custom projects.
 
 Being fluent in English and Portuguese, combined with my international experience, allows me to thrive in multicultural environments and collaborate across different industries. Outside of tech, I’m passionate about design, audio engineering, and music production, bringing a creative approach to my work.
 
