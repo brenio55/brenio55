@@ -12,7 +12,7 @@ Minha fluência em inglês e português, combinada com minha experiência intern
 
 💡 Vamos conversar sobre tecnologia, inovação ou oportunidades?
 
-📧 brenio@divsec.cloud
+📧 brenio55@outlook.com
 
 --------------------------------------------------------------------
 
@@ -30,7 +30,7 @@ Being fluent in English and Portuguese, combined with my international experienc
 
 💡 Let’s connect and talk about tech, innovation, or new opportunities!
 
-📧 brenio@divsec.cloud
+📧 brenio55@outlook.com
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=brenio55" />
